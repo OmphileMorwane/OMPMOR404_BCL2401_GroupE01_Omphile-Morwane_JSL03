@@ -16,4 +16,4 @@ Even though the declarative method might hide certain mutable variables or state
 
 # In Summary
 
-The imperative programming emphasizes detailing explicit steps to achieve a goal.
+The imperative programming emphasizes detailing explicit steps to achieve a goal, while declarative programming focuses on the desired outcome in a more abstract manner. Each style has its trade-off, like clarity vs Verbosity. It important to consider these factors when choosing appropriate style for projects.
